@@ -1,6 +1,11 @@
-const overViewPageRoute = "Overview";
-const driversPageRoute = "Drivers";
-const clientsPageRoute = "Clients";
-const authenticationPageRoute = "Authentication";
+const OverViewPageRoute = "Overview";
+const DriversPageRoute = "Drivers";
+const ClientsPageRoute = "Clients";
+const AuthenticationPageRoute = "Authentication";
 
-List sideMenuItemRoutes=[overViewPageRoute,driversPageRoute,clientsPageRoute,authenticationPageRoute];
+List sideMenuItems = [
+  OverViewPageRoute,
+  DriversPageRoute,
+  ClientsPageRoute,
+  AuthenticationPageRoute
+];

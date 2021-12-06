@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.responsive_web">
+    package="com.santosenoque.flutter_web_dashboard">
    <application
-        android:label="responsive_web"
+        android:label="flutter_web_dashboard"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
